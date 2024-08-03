@@ -1,0 +1,15 @@
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanClient\bin\Debug\FordBellmanClient.exe.config
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanClient\bin\Debug\FordBellmanClient.exe
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanClient\bin\Debug\FordBellmanClient.pdb
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanClient\obj\Debug\FordBellmanClient.csproj.AssemblyReference.cache
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanClient\obj\Debug\MainWindow.g.cs
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanClient\obj\Debug\App.g.cs
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanClient\obj\Debug\FordBellmanClient_MarkupCompile.cache
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanClient\obj\Debug\FordBellmanClient_MarkupCompile.lref
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanClient\obj\Debug\MainWindow.baml
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanClient\obj\Debug\FordBellmanClient.g.resources
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanClient\obj\Debug\FordBellmanClient.Properties.Resources.resources
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanClient\obj\Debug\FordBellmanClient.csproj.GenerateResource.cache
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanClient\obj\Debug\FordBellmanClient.csproj.CoreCompileInputs.cache
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanClient\obj\Debug\FordBellmanClient.exe
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanClient\obj\Debug\FordBellmanClient.pdb

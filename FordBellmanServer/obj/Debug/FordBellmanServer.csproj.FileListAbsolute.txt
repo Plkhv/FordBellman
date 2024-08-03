@@ -1,0 +1,11 @@
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanServer\bin\Debug\FordBellmanServer.dll.config
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanServer\bin\Debug\FordBellmanServer.dll
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanServer\bin\Debug\FordBellmanServer.pdb
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanServer\obj\Debug\FordBellmanServer.csproj.AssemblyReference.cache
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanServer\obj\Debug\FordBellmanServer.csproj.CoreCompileInputs.cache
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanServer\obj\Debug\FordBellmanServer.dll
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanServer\obj\Debug\FordBellmanServer.pdb
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanServer\bin\Debug\FordBellmanClient.exe
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanServer\bin\Debug\FordBellmanClient.pdb
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanServer\bin\Debug\FordBellmanClient.exe.config
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanServer\obj\Debug\FordBellmanServer.csproj.CopyComplete

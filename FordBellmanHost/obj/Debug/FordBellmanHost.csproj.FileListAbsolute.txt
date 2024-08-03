@@ -1,0 +1,15 @@
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanHost\bin\Debug\FordBellmanHost.exe.config
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanHost\bin\Debug\FordBellmanHost.exe.manifest
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanHost\bin\Debug\FordBellmanHost.application
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanHost\bin\Debug\FordBellmanHost.exe
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanHost\bin\Debug\FordBellmanHost.pdb
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanHost\bin\Debug\FordBellmanServer.dll
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanHost\bin\Debug\FordBellmanServer.pdb
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanHost\bin\Debug\FordBellmanServer.dll.config
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanHost\obj\Debug\FordBellmanHost.csproj.AssemblyReference.cache
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanHost\obj\Debug\FordBellmanHost.csproj.CoreCompileInputs.cache
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanHost\obj\Debug\FordBellmanHost.exe.manifest
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanHost\obj\Debug\FordBellmanHost.application
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanHost\obj\Debug\FordBellmanHost.csproj.CopyComplete
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanHost\obj\Debug\FordBellmanHost.exe
+C:\Users\plkhv\source\repos\FordBellmanServer\FordBellmanHost\obj\Debug\FordBellmanHost.pdb
